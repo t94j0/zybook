@@ -8,4 +8,5 @@ setup(name='zybook',
       author='Max Harley',
       author_email='maxh@maxh.io',
       url='http://github.com/t94j0/zybook',
+      scripts=['zybook']
      )
