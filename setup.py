@@ -10,6 +10,5 @@ setup(name='zybook',
       url='http://github.com/t94j0/zybook',
       license='wtfpl',
       scripts=['zybook'],
-      install_requires=['parse','argparse','requests'],
-      python_requires='>=3'
+      install_requires=['parse','argparse','requests']
      )
