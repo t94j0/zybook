@@ -2,8 +2,8 @@
 
 ## Installation
 
-1. `brew tap t94j0/security`
-2. `brew install zybook`
+1. `clone git repository`
+2. `pip install -r requirements.txt`
 
 ## Usage
-`./zybook.py -u <Your Email> -p <Your Password> https://learn.zybooks.com/zybook/<Class>/chapter/<Chapter Number>/section/<Section Number>`
+`python zybook -u <Your Email> -p <Your Password> https://learn.zybooks.com/zybook/<Class>/chapter/<Chapter Number>/section/<Section Number>`
