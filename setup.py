@@ -8,7 +8,7 @@ setup(name='zybook',
       author='Max Harley',
       author_email='maxh@maxh.io',
       url='http://github.com/t94j0/zybook',
-      license='wtfpl',
-      scripts=['zybook'],
+      license='MIT',
+      packages=['zybook'],
       install_requires=['parse','argparse','requests']
      )
