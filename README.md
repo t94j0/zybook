@@ -14,7 +14,7 @@
 ### From Homebrew
 
 1. `brew tap t94j0/personal`
-2. `brew install t94j0/zybook`
+2. `brew install t94j0/personal/zybook`
 
 `zybook -h`
 
